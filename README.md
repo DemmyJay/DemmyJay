@@ -1,16 +1,14 @@
-### Hi there 👋
+# Jaiyeola Demilade
 
-<!--
-**DemmyJay/DemmyJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a professional Software Engineer and Web3 developer, I'm passionate about Sustainable Growth solutions and dedicated to BUILDING and optimizing structures that fulfill a truly decentralized, interoperable, and sustainable global society by utilizing and integrating disruptive technology such as AI with Ouroboros, Cardano's unique and highly scalable infrastructure.
 
-Here are some ideas to get you started:
+ **I'm deeply invested but not limited to the following skillsets:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Software development using Haskell;
+* Cardano's Dapp development SDK and Tool-chain;
+* Scalable Backend development using Kuber (Haskell's Tx building library);
+* Smart contract development using Plutus | Plutarch | Plu-ts | Helios;
+* Cryptographic concepts: Encryption | Hashing | Obfuscation;
+* Profound understanding of Bitcoin's UTxO model;
+* Implementation of Cardano's eUTxO model via Plutus scripts;
+* Seemless UX and scalable UI integration using React and JavaScript.

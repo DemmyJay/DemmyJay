@@ -4,7 +4,7 @@ As a professional Software Architect, Software Engineer, and Web3 Solutions Arch
 
  **I'm deeply invested in but not limited to the following skillsets:**
 
-* Software Achiture and Engineering Conception;
+* Software Achiture and Engineering Concepts;
 * Software development using Haskell;
 * Cardano's Dapp development SDK and Tool-chain;
 * Scalable Backend development using Kuber (Haskell's Tx building library);
